@@ -1,4 +1,4 @@
-[# MyReads
+## MyReads
 
 MyReads is a simple cataloging app that allows you to place books in one of three shelves or categories:
 
